@@ -6,14 +6,14 @@
       "type": "edge",
       "request": "launch",
       "url": "http://localhost:3001",
-      "webRoot": "${workspaceFolder}/public"
+      "webRoot": "${workspaceFolder}/client/public"
     },
     {
       "name": "localhost (Chrome)",
       "type": "chrome",
       "request": "launch",
       "url": "http://localhost:3001",
-      "webRoot": "${workspaceFolder}/public"
+      "webRoot": "${workspaceFolder}/client/public"
     },
     {
       "name": "Debug node process",
