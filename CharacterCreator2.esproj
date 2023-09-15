@@ -12,9 +12,6 @@
 	</StartupCommand>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="client\" />
-  </ItemGroup>
-  <ItemGroup>
     <TypeScriptConfiguration Remove=".vscode\**" />
   </ItemGroup>
   <ItemGroup>
