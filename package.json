@@ -1,0 +1,19 @@
+{
+  "name": "character-creator2",
+  "version": "0.0.0",
+  "description": "CharacterCreator2",
+  "main": "server.js",
+  "author": "Jos van Rest",
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  },
+  "eslintConfig": {},
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
